@@ -1,10 +1,4 @@
 # Exploit Title: TerraMaster TOS 4.2.06 - RCE (Unauthenticated)
-# Date: 12/12/2020
-# Exploit Author: IHTeam
-# Full Write-up: https://www.ihteam.net/advisory/terramaster-tos-multiple-vulnerabilities/
-# Vendor Homepage: https://www.terra-master.com/
-# Version: <= 4.2.06
-# Tested on: 4.1.30, 4.2.06
 
 #!/usr/bin/env python3
 import argparse
